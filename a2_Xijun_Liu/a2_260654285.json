@@ -1,0 +1,20 @@
+{
+  "firstlast": "Xijun Liu",
+  "id": 260654285,
+  "assignment": 2,
+  "course": 446,
+  "renders": [
+    { "scene": "Teapot (offline)",
+      "render": "offline/teapot_simple_offline.exr"
+    },
+    { "scene": "Dragon (offline)",
+      "render": "offline/cbox_simple_offline.exr"
+    },
+    { "scene": "Sphere (real-time)",
+      "render": "realtime/teapot_simple_realtime.exr"
+    },
+    { "scene": "Dragon (real-time)",
+      "render": "realtime/cbox_simple_realtime.exr"
+    },
+  ]
+}
